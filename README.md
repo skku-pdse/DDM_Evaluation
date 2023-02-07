@@ -4,9 +4,7 @@ Seo-Young Park, Sun-Jong Kim, Cheol-Hwan Park, Jiyong Kim, Dong-Yup Lee*
 
 School of Chemical Engineering, Sungkyunkwan University, Suwon, Republic of Korea
 
-*Correspondence:
-
-Dong-Yup Lee, School of Chemical Engineering, Sungkyunkwan University, Suwon, Republic of Korea.
+*Correspondence: Dong-Yup Lee, School of Chemical Engineering, Sungkyunkwan University, Suwon, Republic of Korea.
 
 Email: dongyuplee@skku.edu
 
@@ -15,4 +13,6 @@ Recently, enormous culture profiles and datasets from biomanufacturing processes
 
 **KEYWORDS:** CHO cell culture, data-driven model, artificial intelligence, machine learning, culture performance prediction, bioprocess digital twin
 
-***
+# Evaluation Framework
+
+
