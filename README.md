@@ -15,6 +15,6 @@ Recently, enormous culture profiles and datasets from biomanufacturing processes
 
 # Evaluation Framework
 
-<img src="docs/Figure 1.png" width="400"/>
+<img src="docs/Figure 1.png" width="1000"/>
 
 
