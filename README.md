@@ -13,8 +13,13 @@ Recently, enormous culture profiles and datasets from biomanufacturing processes
 
 **KEYWORDS:** CHO cell culture, data-driven model, artificial intelligence, machine learning, culture performance prediction, bioprocess digital twin
 
+
 # Evaluation Framework
 
 <img src="docs/Figure 1.png" width="1000"/>
 
 
+# Acknowledgement
+This study was supported by the National Research Foundation of Korea (NRF) grant funded by Ministry of Science and ICT (2022R1A4A5032720), and the Korea Institute of Energy Technology Evaluation and Planning (KETEP) grant funded by the MOTIE (20214000000500, Training program of CCUS for the green growth).
+
+# Citation
