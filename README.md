@@ -16,7 +16,7 @@ Recently, the advancement in process analytical techniques (PAT) and artificial 
 
 # Evaluation Framework
 
-<img src="docs/Figure 1.png" width="1000"/>
+<img src="docs/main_Figure.png" width="1000"/>
 
 
 # Acknowledgement
