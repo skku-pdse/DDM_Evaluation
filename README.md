@@ -18,6 +18,58 @@ Recently, the advancement in process analytical techniques (PAT) and artificial 
 
 <img src="docs/main_Figure.png" width="1000"/>
 
+# Data Examples
+
+>## File Names
+>input_vcd.csv
+>input_viability.csv
+>input_glucose.csv
+>input_lactate.csv
+>input_ammonia.csv
+>input_do.csv
+>input_ph.csv
+>input_igg.csv
+>## Data Table Examples 
+> shape: (81,4)
+>|condition|t1|t2|t3|
+>|---|---|---|---| 
+>|P1|0|0|0|
+>|P2|0|0|0|
+>|⋮|⋮|⋮|⋮|
+>|P4|0|0|0|
+
+>## File Names
+>output_vcd.csv
+>output_glucose.csv
+>output_lactate.csv
+>output_ammonia.csv
+>output_igg.csv
+>## Data Table Examples 
+> shape: (81,2)
+>|condition|t4|
+>|---|---|
+>|P1|0|
+>|P2|0|
+>|⋮|⋮|⋮|⋮|
+>|P4|0|
+
+>## File Names
+>vcd.csv
+>viability.csv
+>glucose.csv
+>lactate.csv
+>ammonia.csv
+>do.csv
+>ph.csv
+>igg.csv
+>## Data Table Examples 
+> shape: (17,9)
+>|condition|d0|d2|d4|d6|d8|d10|d12|d14|
+>|---|---|---|---| ---| ---| ---| ---|---| 
+>|P1|0|0|0|0|0|0|0|0|
+>|P2|0|0|0|0|0|0|0|0|
+>|⋮|⋮|⋮|⋮|⋮|⋮|⋮|⋮|⋮|
+>|P4|0|0|0|0|0|0|0|0|
 
 # Acknowledgement
 This study was supported by the National Research Foundation of Korea (NRF) grant funded by Ministry of Science and ICT (2022R1A4A5032720), and the Korea Institute of Energy Technology Evaluation and Planning (KETEP) grant funded by the MOTIE (20214000000500, Training program of CCUS for the green growth).
